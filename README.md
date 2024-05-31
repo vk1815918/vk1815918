@@ -1,17 +1,21 @@
-<h1 align="center">Greetings 👋 I'm Jason 🤠</h1>
+<h1 align="center">Greetings 👋 I'm Viswa 🤠</h1>
 <h3 align="center">A endlessly curious CS student at UTD exploring AI/ML, Quantitative Finance, Blockchain, and Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
 - 🌱 I’m currently learning **Rust, Solidity, Tensorflow, Advanced Stats & Probability**
 
+- 📝 I regularly write articles on [https://medium.com/@viswaretaskotra](https://medium.com/@viswaretaskotra)
+
 - 💬 Ask me about **Quantitative Trading, AI/ML, Blockchain Technology, and Mobile & Web Development**
+
+- 📫 How to reach me **viswaretaskotra@gmail.com**
 
 - 🎹 Fun fact **I can play Turkish March, Sonata Pathetique 1st Movement, Scheherazade, and so many more piano pieces!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Jason-Alveraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswa-kotra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viswa-kotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswa-kotra" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages</h2>
