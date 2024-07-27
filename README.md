@@ -12,6 +12,8 @@
 - 📫 How to reach me **viswaretaskotra@gmail.com**
 
 - 🎹 Fun fact **I can play Turkish March, Sonata Pathetique 1st Movement, Scheherazade, and so many more piano pieces!**
+  
+- Check out my portfolio website here - https://viswaretas-kotra-portfolio.netlify.app/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
