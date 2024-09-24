@@ -13,7 +13,9 @@
 
 - 🎹 Fun fact **I can play Turkish March, Sonata Pathetique 1st Movement, Scheherazade, and so many more piano pieces!**
   
-- Check out my portfolio website here - https://viswaretas-kotra-portfolio.netlify.app/ 
+- Check out my portfolio website here - https://viswaretas-kotra-portfolio.netlify.app/
+
+💻 **<span style="color:red">Disclaimer</span>**: ‼️ Most of my commits are made in **private repositories**, so they may not be visible here. Rest assured, I am actively contributing to various projects and constantly learning through hands-on experience! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
