@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
-- 🌱 I’m currently learning **Rust, Solidity, Tensorflow, Advanced Stats & Probability**
+- 🌱 I’m currently learning **Low Level Programming, Solidity, Tensorflow, Advanced Stats & Probability**
 
 - 📝 I regularly write articles on [https://medium.com/@viswaretaskotra](https://medium.com/@viswaretaskotra)
 
