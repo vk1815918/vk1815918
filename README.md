@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 I'm Viswa 🤠</h1>
-<h3 align="center">A endlessly curious CS student at UTD exploring AI/ML, Software Development, Product Management, and Blockchain</h3>
+<h3 align="center">A endlessly curious CS student at UTD exploring Software Development, Quantitative Finance, Blockchain Technology, and AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
