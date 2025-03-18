@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@viswaretaskotra](https://medium.com/@viswaretaskotra)
 
-- 💬 Ask me about **Quantitative Trading, AI/ML, Blockchain Technology, and Mobile & Web Development**
+- 💬 Ask me about **Software Development, AI/ML, Open Source, Blockchain Technology, and Mobile & Web Development**
 
 - 📫 How to reach me **viswaretaskotra at gmail.com**
 
-- 🎹 Fun fact **I can play Turkish March, Sonata Pathetique 1st Movement, Scheherazade, and so many more piano pieces!**
+- 🎹 Fun fact **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and so many more piano pieces!**
   
 - Check out my portfolio website here - https://viswaretas-kotra-portfolio.netlify.app/
 
