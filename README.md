@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Quantitative Trading, AI/ML, Blockchain Technology, and Mobile & Web Development**
 
-- 📫 How to reach me **viswaretaskotra@gmail.com**
+- 📫 How to reach me **viswaretaskotra at gmail.com**
 
 - 🎹 Fun fact **I can play Turkish March, Sonata Pathetique 1st Movement, Scheherazade, and so many more piano pieces!**
   
