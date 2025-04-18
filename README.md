@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Development, AI/ML, Open Source, Blockchain Technology, and Mobile & Web Development**
 
-- 📫 How to reach me **viswaretaskotra at gmail.com**
+- 📫 Best place to reach me is through my linkedin profile [In/viswa-kotra](https://www.linkedin.com/in/viswa-kotra/)
 
 - 🎹 Fun fact **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and so many more piano pieces!**
   
