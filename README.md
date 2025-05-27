@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 I'm Viswa! </h1>
-<h3 align="center">A endlessly curious CS student at UTD exploring Software Development, AI/ML, and Open Source!</h3>
+<h3 align="center">A endlessly curious CS student at UTD exploring Software Development, AI/ML research, Competitive Programming, and Open Source!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
@@ -7,13 +7,14 @@
 
 - 📝 I regularly write articles on [https://medium.com/@viswaretaskotra](https://medium.com/@viswaretaskotra)
 
-- 💬 Ask me about **Software Development, AI/ML, Open Source, Blockchain Technology, and Mobile & Web Development**
+- 💬 Ask me about **Software Architecture, Competitive Programming, and Open Source!**
 
 - 📫 Best place to reach me is through my linkedin profile [In/viswa-kotra](https://www.linkedin.com/in/viswa-kotra/)
 
-- 🎹 Fun fact **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and so many more piano pieces!**
+- 🎹 Fun fact **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and many more pieces!**
   
 - Check out my portfolio website here - [https://www.viswaretas-kotra.me/](https://viswaretas-kotra.me/)
+- And my codeforces profile here -  [https://codeforces.com/profile/myaltaccountsthis](https://codeforces.com/profile/myaltaccountsthis)
 
 💻 **<span style="color:red">Disclaimer</span>**: ‼️ Most of my commits are made in **private repositories**, so they may not be visible here. Rest assured, I am actively contributing to various projects and constantly learning through hands-on experience! 
 
