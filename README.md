@@ -14,7 +14,6 @@
 - 🎹 Fun fact **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and many more pieces!**
   
 - Check out my portfolio website here - [https://www.viswaretas-kotra.me/](https://viswaretas-kotra.me/)
-- And my codeforces profile here -  [https://codeforces.com/profile/myaltaccountsthis](https://codeforces.com/profile/myaltaccountsthis)
 
 💻 **<span style="color:red">Disclaimer</span>**: ‼️ Most of my commits are made in **private repositories**, so they may not be visible here. Rest assured, I am actively contributing to various projects and constantly learning through hands-on experience! 
 
