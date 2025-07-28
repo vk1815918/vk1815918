@@ -1,5 +1,13 @@
 <h1 align="center">Greetings 👋 I'm Viswa! </h1>
-<h3 align="center">A endlessly curious CS student at UTD exploring Software Development, AI/ML research, Competitive Programming, and Open Source!</h3>
+<h3 align="center">An endlessly curious CS student at UTD exploring Software Development, AI/ML Research, Competitive Programming, and Open Source!</h3>
+
+<p align="center">
+  <img src="https://assets.themuse.com/uploaded/companies/11832/small_logo.png" alt="Scale AI" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Emblem.jpg" alt="Capital One" height="40" />
+</p>
+
+<p align="center">Previously @ <strong>Scale AI</strong> (GenAI) & <strong>Capital One</strong> (Software Engineering) 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
@@ -9,11 +17,11 @@
 
 - 💬 Ask me about **Software Architecture, Competitive Programming, and Open Source!**
 
-- 📫 Best place to reach me is through my linkedin profile [In/viswa-kotra](https://www.linkedin.com/in/viswa-kotra/)
+- 📫 Best place to reach me is through my LinkedIn: [In/viswa-kotra](https://www.linkedin.com/in/viswa-kotra/)
 
-- 🎹 Fun fact **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and many more pieces!**
-  
-- Check out my portfolio website here - [https://www.viswaretas-kotra.me/](https://viswaretas-kotra.me/)
+- 🎹 Fun fact: **I can play the Turkish March (Mozart), Sonata Pathetique 1st & 3rd Movement, Scheherazade, and many more pieces!**
+
+- 🌐 Check out my portfolio website here: [https://www.viswaretas-kotra.me/](https://viswaretas-kotra.me/)
 
 💻 **<span style="color:red">Disclaimer</span>**: ‼️ Most of my commits are made in **private repositories**, so they may not be visible here. Rest assured, I am actively contributing to various projects and constantly learning through hands-on experience! 
 
