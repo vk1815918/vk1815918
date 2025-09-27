@@ -2,10 +2,13 @@
 <h3 align="center">An endlessly curious CS student at UTD exploring Software Development, AI/ML Research, Competitive Programming, and Open Source!</h3>
 
 <p align="center">
-  <img src="https://assets.themuse.com/uploaded/companies/11832/small_logo.png" alt="Scale AI" height="40" />
+  <img src="https://assets.themuse.com/uploaded/companies/11832/small_logo.png" 
+       alt="Scale AI" height="40" />
   &nbsp;&nbsp;
-  <img src="https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Emblem.jpg" alt="Capital One" height="40" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Emblem.jpg" 
+       alt="Capital One" height="40" />
 </p>
+
 
 <p align="center">Previously @ <strong>Scale AI</strong> (GenAI) & <strong>Capital One</strong> (Software Engineering) 🚀</p>
 
