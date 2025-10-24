@@ -1,7 +1,10 @@
-<h1 align="center">Greetings 👋 I'm Viswa! </h1>
+<h1 align="center">Greetings 👋 I'm Viswa!</h1>
 <h3 align="center">An endlessly curious CS student at UTD exploring Software Development, AI/ML Research, Competitive Programming, and Open Source!</h3>
 
 <p align="center">
+  <img src="https://docs.snowflake.com/en/_images/logo-snowflake.png" 
+       alt="Snowflake" height="35" />
+  &nbsp;&nbsp;
   <img src="https://assets.themuse.com/uploaded/companies/11832/small_logo.png" 
        alt="Scale AI" height="40" />
   &nbsp;&nbsp;
@@ -9,8 +12,13 @@
        alt="Capital One" height="40" />
 </p>
 
+<p align="center">
+  Incoming <strong>Snowflake ❄️ SWE Intern</strong> (Menlo Park, CA)
+</p>
 
-<p align="center">Previously @ <strong>Scale AI</strong> (GenAI) & <strong>Capital One</strong> (Software Engineering) 🚀</p>
+<p align="center">
+    Previously @ <strong>Scale AI</strong> (GenAI) & <strong>Capital One</strong> (Software Engineering) 🚀
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
