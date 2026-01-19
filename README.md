@@ -34,8 +34,6 @@
 
 - 🌐 Check out my portfolio website here: [https://www.viswaretas-kotra.me/](https://viswaretas-kotra.me/)
 
-💻 **<span style="color:red">Disclaimer</span>**: ‼️ Most of my commits are made in **private repositories**, so they may not be visible here. Rest assured, I am actively contributing to various projects and constantly learning through hands-on experience! 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viswa-kotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswa-kotra" height="30" width="40" /></a>
