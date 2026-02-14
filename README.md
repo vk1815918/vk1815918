@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Incoming <strong>Snowflake ❄️ SWE Intern</strong> (Menlo Park, CA)
+  <strong>SWE Intern @ ❄️ Snowflake </strong> (Menlo Park, CA)
 </p>
 
 <p align="center">
