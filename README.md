@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 I'm Viswa!</h1>
-<h3 align="center">An endlessly curious CS student at UTD exploring Software Development, AI/ML Research, Competitive Programming, and Open Source!</h3>
+<h3 align="center">An endlessly curious CS student at UTD interested in AI/ML Research, Quantitative Finance, and Startups!</h3>
 
 <p align="center">
   <img src="https://docs.snowflake.com/en/_images/logo-snowflake.png" 
@@ -22,7 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vk1815918&label=Profile%20views&color=0e75b6&style=flat" alt="vk1815918" /> </p>
 
-- 🌱 I’m currently learning **Advanced Reinforcement Learning, Distributed Systems, C++, and Poker!**
+- 🌱 I’m currently learning **Advanced Reinforcement Learning, Distributed Systems, and pickleball 🏓!**
 
 - 📝 I regularly write articles on [https://medium.com/@viswaretaskotra](https://medium.com/@viswaretaskotra)
 
