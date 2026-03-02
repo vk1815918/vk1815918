@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 I'm Viswa!</h1>
-<h3 align="center">An endlessly curious CS student at UTD interested in AI/ML Research, Quantitative Finance, and Startups!</h3>
+<h3 align="center">CS student at UTD interested in AI/ML Research, Quantitative Finance, and Startups!</h3>
 
 <p align="center">
   <img src="https://docs.snowflake.com/en/_images/logo-snowflake.png" 
