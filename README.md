@@ -1,24 +1,28 @@
 # Viswa Kotra
 
-Software engineer interested in distributed systems, AI infrastructure, and quantitative systems.
+Software engineer working at the intersection of distributed systems, AI infrastructure, and intelligent systems.
 
-Currently SWE Intern @ Snowflake (Menlo Park)
+Currently SWE Intern @ Snowflake (Menlo Park) ❄️  
 
 Previously @ Scale AI (GenAI) and Capital One.
 
-Computer Science @ UT Dallas
+Computer Science @ UT Dallas.
 
 Interested in:
+
 - distributed systems
 - machine learning infrastructure
 - low latency systems
 - quantitative finance
 
-Writing:  
-https://medium.com/@viswaretaskotra
-
-Website:  
+Website  
 https://viswaretas-kotra.me
 
-LinkedIn:  
+LinkedIn  
 https://linkedin.com/in/viswa-kotra
+
+Writing  
+https://medium.com/@viswaretaskotra
+
+X  
+https://x.com/viswa_kotra
